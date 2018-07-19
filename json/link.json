@@ -1,0 +1,24 @@
+{
+    "info": [
+        {
+          "info": "SysInfo Pro",
+          "summary": "可以查看当前网速、局域网外网IP、设备名称、iOS版本、磁盘剩余、内存占用等情况 \n可以点击界面来切换显示的系统信息和网络信息 \n目前已知的问题: \n1. 硬盘剩余与实际不符 \n2. 内存占用可能也存在同样的情况，但是总体差不多，没1那么夸张 \n更新记录:\n2018/5/26更新1.0.1 修复出现NNNNN多小数点的问题 \n2018/5/27更新1.0.2 限制SSID长度以解决字符叠加 \n2018/5/27更新1.0.3 修复外网IP偶尔的排版错误 \n2018/6/12更新1.0.4适配SE机型，以及其他机型适配优化",
+          "link": "https://jsboxbbs.com/d/367-sysinfo-pro"
+        },
+        {
+            "info": "Days Pro",
+            "summary": "仿自”倒数日 Days\n· 理论可以计算到无限天数，但是超过5位数的天数背景会错乱（懒得适配）\n· 支持主题选择 \n· 主应用运行是设置，小组件运行是倒数界面",
+            "link": "https://jsboxbbs.com/d/373-days-prohttps://jsboxbbs.com/d/373-days-pro"
+        },
+        {
+            "info": "Palette",
+            "summary": "· 点击HEX和RGB值可以直接复制所显示的内容，包括#和() \n· 各条Slider都会随着数据变化而变化，因此RGB标签页想要查看颜色更加直观",
+            "link": "https://jsboxbbs.com/d/389-palette"
+        },
+        {
+            "info": "Aria2",
+            "summary": "· 主应用界面是设置，填入rpc地址与token，完成后可以激活测试连接是否正确 \n· 分享面板和启动器均是添加任务，分享面板会直接添加选取的链接，为了保证进入主界面是设置界面，所以将粘贴板链接读取放在了启动器中 \n· 如何添加和设置Aria2下载端请Google，梅林可以参考我的博客www.zigma.cc",
+            "link": "https://jsboxbbs.com/d/408-aria2"
+        }
+    ]
+}

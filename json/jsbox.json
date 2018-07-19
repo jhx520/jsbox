@@ -1,0 +1,146 @@
+{
+    "art": [
+        {
+            "icon": "122",
+            "name": "SysInfo Pro",
+            "autor": "ZiGma",
+            "tag": "工具",
+            "describe": "精美版的网速内存小插件",
+            "summary": "可以查看当前网速、局域网外网IP、设备名称、iOS版本、磁盘剩余、内存占用等情况 \n可以点击界面来切换显示的系统信息和网络信息 \n目前已知的问题: \n1. 硬盘剩余与实际不符 \n2. 内存占用可能也存在同样的情况，但是总体差不多，没1那么夸张 \n更新记录:\n2018/5/26更新1.0.1 修复出现NNNNN多小数点的问题 \n2018/5/27更新1.0.2 限制SSID长度以解决字符叠加 \n2018/5/27更新1.0.3 修复外网IP偶尔的排版错误 \n2018/6/12更新1.0.4适配SE机型，以及其他机型适配优化",
+            "link": "https://jsboxbbs.com/d/367-sysinfo-pro",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2FZiGmaX809%2FJsBoxLib%2Fmaster%2FSysInfo_Pro%2FSysInfo%2520Pro.box"
+        },
+        {
+            "icon": "137",
+            "name": "Days Pro",
+            "autor": "ZiGma",
+            "tag": "生活",
+            "describe": "还原倒数日应用，可累计可倒数",
+            "summary": "仿自”倒数日 Days\n· 理论可以计算到无限天数，但是超过5位数的天数背景会错乱（懒得适配）\n· 支持主题选择 \n· 主应用运行是设置，小组件运行是倒数界面",
+            "link": "https://jsboxbbs.com/d/373-days-prohttps://jsboxbbs.com/d/373-days-pro",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2FZiGmaX809%2FJsBoxLib%2Fmaster%2FDays_Pro%2FDays%2520Pro.box"
+        },
+        {
+            "icon": "151",
+            "name": "Palette",
+            "autor": "ZiGma",
+            "tag": "工具",
+            "describe": "自由掌控查看配色以及复制HEX和RGB值",
+            "summary": "· 点击HEX和RGB值可以直接复制所显示的内容，包括#和() \n· 各条Slider都会随着数据变化而变化，因此RGB标签页想要查看颜色更加直观",
+            "link": "https://jsboxbbs.com/d/389-palette",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2FZiGmaX809%2FJsBoxLib%2Fmaster%2FPalette%2FPalette.box"
+        },
+        {
+            "icon": "064",
+            "name": "Aria2",
+            "autor": "ZiGma",
+            "tag": "生活",
+            "describe": "为Aria2快速添加任务",
+            "summary": "· 主应用界面是设置，填入rpc地址与token，完成后可以激活测试连接是否正确 \n· 分享面板和启动器均是添加任务，分享面板会直接添加选取的链接，为了保证进入主界面是设置界面，所以将粘贴板链接读取放在了启动器中 \n· 如何添加和设置Aria2下载端请Google，梅林可以参考我的博客www.zigma.cc",
+            "link": "https://jsboxbbs.com/d/408-aria2",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2FZiGmaX809%2FJsBoxLib%2Fmaster%2FAria2%2FAria2.box"
+        },
+        {
+            "icon": "037",
+            "name": "ACPlayer",
+            "autor": "cats",
+            "tag": "娱乐",
+            "describe": "三大音乐源，可听可下载",
+            "url": "http%3A%2F%2Fablecats.github.io%2FJSBox%2FACPlayer.box"
+        },
+        {
+            "icon": "014",
+            "name": "Photo Compress",
+            "autor": "JunM",
+            "tag": "工具",
+            "describe": "不影响画质，有效压缩照片",
+            "url": "https%3A%2F%2Fgithub.com%2Fmjyspace%2FJSBox%2Fblob%2Fmaster%2FPhoto%2520Compress%2F.output%2FPhoto%2520Compress.box"
+        },
+        {
+            "icon": "014",
+            "name": "EXIF Modify",
+            "autor": "JunM",
+            "tag": "工具",
+            "describe": "修改照片的EXIF信息",
+            "url": "https%3A%2F%2Fgithub.com%2Fmjyspace%2FJSBox%2Fblob%2Fmaster%2FEXIF%2520Modify%2F.output%2FEXIF%2520Modify.box"
+        },
+        {
+            "icon": "026",
+            "name": "NLauncher",
+            "autor": "Neurogram",
+            "tag": "生活",
+            "describe": "网页书签、APP启动、二维码展示",
+            "url": "https%3A%2F%2Fgithub.com%2FNeurogram-R%2FJSBox%2Fblob%2Fmaster%2FNLauncher.box"
+        },
+        {
+            "icon": "055",
+            "name": "句子迷 v0.1",
+            "autor": "Hhd°",
+            "tag": "娱乐",
+            "describe": "句子迷，你的好词好句摘抄本",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2Fjhx520%2Fjsbox%2Fmaster%2Fjuzimi.js&name=%E5%8F%A5%E5%AD%90%E8%BF%B7 v0.1"
+        },
+        {
+            "icon": "087",
+            "name": "JavBus",
+            "autor": "Nicked",
+            "tag": "娱乐",
+            "describe": "前方高能，快上车",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2Fnicktimebreak%2Fxteko%2Fmaster%2FJavBus%2FJavBus.js"
+        },
+        {
+            "icon": "014",
+            "name": "Delete Photos",
+            "autor": "Ryan",
+            "tag": "工具",
+            "describe": "通知栏多选照片进行删除",
+            "url": "https%3A%2F%2Folx97w61o.qnssl.com%2FDelete-Photos.box"
+        },
+        {
+            "icon": "125",
+            "name": "Progress",
+            "autor": "Ryan",
+            "tag": "生活",
+            "describe": "年周节假日进度显示",
+            "url": "https%3A%2F%2Folx97w61o.qnssl.com%2FProgress.box"
+        },
+        {
+            "icon": "065",
+            "name": "iTunes Utilities",
+            "autor": "Axel",
+            "tag": "生活",
+            "describe": "快速查看iTunes相关应用",
+            "url": "https%3A%2F%2Fgithub.com%2Faxelburks%2FJSBox%2Fraw%2Fmaster%2FiTunes%2520Utilities%2F.output%2FiTunes%2520Utilities.box"
+        },
+        {
+            "icon": "045",
+            "name": "少数派阅读",
+            "autor": "jianxun",
+            "tag": "阅读",
+            "describe": "查看少数派新闻，支持搜索",
+            "summary": "新增支持关键词搜索",
+            "link": "https://jsboxbbs.com/d/468--",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2Falpha87%2FJsBoxScript%2Fmaster%2Fsspai.js"
+        },
+        {
+            "icon": "065",
+            "name": "Launch Center",
+            "autor": "Linger",
+            "tag": "工具",
+            "describe": "启动器中心插件[所有用户可共同维护的启动器库]",
+            "summary": "V2.4 新增云库搜索功能 \n V2.3 现在可以编辑本地和上传的启动器了,上线赞赏页面 \n V2.2 优化操作逻辑，长按删除执行清空操作,现在设置列数可以即时预览效果,添加右滑退出提示文字,优化 UI",
+            "link": "https://jsboxbbs.com/d/412--",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2FLiuGuoGY%2FJSBox-addins%2Fmaster%2Flaunch-center.js"
+        },
+        {
+            "icon": "087",
+            "name": "车来了",
+            "autor": "Ren",
+            "tag": "生活",
+            "describe": "公交实时信息查询-车来了",
+            "summary": "接口来源车来了APP，实时查询公交车到站信息",
+            "link": "https://jsboxbbs.com/d/455--",
+            "url": "https%3A%2F%2Fraw.githubusercontent.com%2FMapleRen%2FJSBox%2Fmaster%2Fchelaile%2Fchelaile.js"
+        }
+    ]
+}
